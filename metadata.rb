@@ -9,5 +9,4 @@ version          "0.1"
   supports os
 end
 
-depends "yum"
 depends "apt"
